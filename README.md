@@ -2,7 +2,7 @@
 - 🔭 I’m currently creating a database and API calls for my internship at QRTagIt.
 - 🌱 I’m currently learning a lot about blockchain technologies.
 - 💬 Ask me about how the future of blockchain application or cryptocurrencies.
-- My favorite book is "Extreme Ownership" -Jocko Willink and Leif Babin
+- 📖 My favorite book is "Extreme Ownership" -Jocko Willink and Leif Babin
 
 
 colten@empey.me
