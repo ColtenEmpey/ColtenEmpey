@@ -7,6 +7,8 @@
 
  [Email](colten@empey.me)
 [LinkedIn](https://www.linkedin.com/in/coltenjempey/)
+
+If you're interested in learning more connect with me or ask for my resumé.
 <!--
 **ColtenEmpey/ColtenEmpey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
