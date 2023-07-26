@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently Working part time as a full stack web developer at QRTagIt and WetX.
+- 🔭 as a full stack web developer at Wetx.
 - 🌱 I’m currently learning a lot about blockchain technologies.
 - 💬 Ask me about the future of blockchain application or cryptocurrencies.
 - 📖 My favorite book is "Extreme Ownership" -Jocko Willink and Leif Babin
