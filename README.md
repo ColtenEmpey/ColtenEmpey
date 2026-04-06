@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 as a full stack web developer at ShedRx.
+- 🔭 as a full stack web developer at SHED.
 - 🌱 I’m currently learning a lot about blockchain technologies.
 - 💬 Ask me about the future of blockchain application or cryptocurrencies.
 - 📖 My favorite book is "Extreme Ownership" -Jocko Willink and Leif Babin
